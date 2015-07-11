@@ -1,3 +1,15 @@
+Who's working on what?
+======================
+
+* Debbie & Paul
+  * TBC
+* Fiona & Neil
+  * TBC
+* Heather & Nick
+  * TBC
+* Rachel & Adam
+  * TBC
+
 General notes/ideas etc.
 ========================
 
