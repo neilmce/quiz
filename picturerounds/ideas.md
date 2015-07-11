@@ -5,3 +5,4 @@ Ideas
 * http://www.morphthing.com/morph to morph 2 faces e.g. Keira Knightley & Gollum. 2 teachers.
 * A page of logos (perhaps themed e.g. around the Mad Men era)
 * Album covers
+* Picture cryptic puzzles. Film/music references liked bustedtees.com. Journey, Don't stop believin' is brilliant: http://www.bustedtees.com/midnightticket
