@@ -1,13 +1,13 @@
+Ideas for things in between the formal rounds
+=============================================
+
+
 Who am I?
-=========
-
+---------
 _Perhaps used as ongoing clues between rounds with reducing points for correct answer_.
-
 
 Example: Martin Sheen
 ---------------------
-
-
 * I was born in Ohio
 * I was born in 1940 (and am still alive - hopefully!)
 * I have been arrested many, many times.
@@ -19,3 +19,7 @@ Example: Martin Sheen
 * I have never been nominated for an Academy Award, but Emmys yes.
 * I love being Spanish as much as I love being Irish. And I love being Irish.
 * I support the Democratic Party in the U.S.
+
+TV theme tunes
+--------------
+Play TV theme tunes, maybe spot prizes for first correct answer?
