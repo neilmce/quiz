@@ -23,3 +23,13 @@ A: Nepal. (And you've seen it outside Banaras f.k.a. Rimjhim)
 
 Q: Name the 50 states of the U.S.
 A: ...
+
+Q: Name rivers A, B, C as marked on this map.
+A: ...
+
+Q: Which Italian car manufacturer's logo features a serpent eating a man?
+A:
+
+Q: Melwood is which Premier League football club's training ground?
+A:
+

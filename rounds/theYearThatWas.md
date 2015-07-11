@@ -1,3 +1,7 @@
+Notes
+=====
+It would be good to have newspaper clippings for each of these stories.
+
 November 2014
 -------------
 
