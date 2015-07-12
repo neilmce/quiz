@@ -4,6 +4,8 @@ Who's working on what?
 * All
   * General knowledge - provide 5 questions per family.
   * Quotes/Movies - provide 5 quotations per family.
+  * History - provide 5 questions per family.
+  * TV & Radio - provide 5 questions per family.
 * Debbie & Paul
   * Sport
   * Popular/trash culture
@@ -49,7 +51,6 @@ Ideas for other rounds/themes
 -----------------------------
 * Food and drink: Celeb chefs, drink, cocktail components, ingredients, national dishes.
 * TV & Radio
-* Children’s culture. Novels, movies, cartoons, toys, - from all eras.
 * Nerd central. Electronics. Games. Computers.
 * Have I got news for you? The year that was.
   * Missing word round – guest publication = Colden Common community paper?
