@@ -12,6 +12,7 @@ Who's working on what?
 * Fiona & Neil
   * Science/Nature
   * Music
+  * Children's culture
 * Heather & Nick
   * School topic(s)
   * Food & drink
