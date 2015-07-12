@@ -1,14 +1,32 @@
 Who's working on what?
 ======================
 
+* All
+  * General knowledge - provide 5 questions per family.
+  * Quotes/Movies - provide 5 quotations per family.
 * Debbie & Paul
-  * TBC
+  * Sport
+  * Popular/trash culture
+  * Awards
+  * Village/local interest.
 * Fiona & Neil
-  * TBC
+  * Science/Nature
+  * Music
 * Heather & Nick
-  * TBC
+  * School topic(s)
+  * Food & drink
+  * The inbetweeners round. Slow reveal of clues to a famous identity.
 * Rachel & Adam
-  * TBC
+  * Table Rounds
+  * The year that was
+  * First & last
+
+Timing/scheduling
+=================
+We're assuming (but need to confirm):
+* 7.30-11.00
+* 1 hour for first half, 1 hour for food, 1 hour for second half.
+
 
 General notes/ideas etc.
 ========================

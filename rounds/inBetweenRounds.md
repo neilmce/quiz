@@ -6,6 +6,9 @@ Who am I?
 ---------
 _Perhaps used as ongoing clues between rounds with reducing points for correct answer_.
 
+Idea: Ewan McGregor
+----------------------
+
 Example: Martin Sheen
 ---------------------
 * I was born in Ohio
