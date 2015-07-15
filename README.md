@@ -13,7 +13,7 @@ Who's working on what?
   * Village/local interest.
 * Fiona & Neil
   * Science/Nature
-  * Music
+  * [Music](./rounds/music.md)
   * Children's culture
 * Heather & Nick
   * School topic(s)
