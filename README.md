@@ -20,8 +20,8 @@ Who's working on what?
   * Food & drink
   * The inbetweeners round. Slow reveal of clues to a famous identity.
 * Rachel & Adam
-  * Table Rounds
-  * The year that was
+  * Table Rounds. See [Face Morph](./picturerounds/Face Morph - Table Round.doc) and [Lego Movie & Album](./picturerounds/Lego Movie & Album Covers - Table Round.doc).
+  * [The year that was](./rounds/The Year That Was.doc)
   * First & last
 
 Timing/scheduling
