@@ -21,6 +21,11 @@ Q: Which country is the only country in the world to have a non-rectangular flag
 A: Nepal. (And you've seen it outside Banaras f.k.a. Rimjhim)
 
 
+Q: Which country's national anthem has no words?
+
+A: Spain. They removed the words along with Franco.
+
+
 Q: Name the 50 states of the U.S.
 A: ...
 
