@@ -39,3 +39,6 @@ A:
 Q: Melwood is which Premier League football club's training ground?
 A:
 
+Q: How many US states start with the word 'New'?
+A: 4 (New Hampshire, New Jersey, New Mexico, New York)
+
