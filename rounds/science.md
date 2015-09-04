@@ -4,7 +4,7 @@ Science
 1. What's next in this sequence? 0, 1, 1, 2, 3, 5, 8, 13. (2 points)
    What is the name of the sequence?
    A: 21. The Fibonacci sequence.
-2. What does oviparous mean? (1 point)
+2. Snakes are oviparous. What does this mean? (1 point)
    A: Young born in eggs. cf viviparous = young born alive.
 3. In 1957, where did Laika die?
    A; In space, in orbit, on Sputnik 2. (1 point)
