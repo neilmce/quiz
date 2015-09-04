@@ -4,17 +4,17 @@ Who's working on what?
 * All
   * [General knowledge](./rounds/generalKnowledge.md) - provide 5 questions per family.
   * [Quotes/Movies](./rounds/quotesFromMovies.md) - provide 5 quotations per family.
-  * History - provide 5 questions per family.
-  * TV & Radio - provide 5 questions per family.
+  * [History](./rounds/history.md) - provide 5 questions per family.
+  * [TV & Radio](./rounds/tvRadio.md) - provide 5 questions per family.
 * Debbie & Paul
   * [Sport](./rounds/sports.md)
   * Popular/trash culture
   * Awards
   * Village/local interest.
 * Fiona & Neil
-  * Science/Nature
+  * [Science/Nature](./rounds/science.md)
   * [Music](./rounds/music.md)
-  * Children's culture
+  * [Children's culture](./rounds/childrensCulture.md)
 * Heather & Nick
   * School topic(s)
   * Food & drink
