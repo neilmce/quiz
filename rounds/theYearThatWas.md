@@ -4,7 +4,7 @@ It would be good to have newspaper clippings for each of these stories.
 
 The Year That Was.... Question ideas
 ====================================
-November
+November (To be removed)
 --------
 * In 2004, the European Space Agency launched a spacecraft in order to rendezvous with a comet. It arrived this month. Can you name the spaceship, its lander and the comet? [3 points].
 
