@@ -12,10 +12,10 @@ November (To be removed)
 
 December
 --------
-* What was the panto at the Theatre Royal in Winchester?
+* In December Sony suffered a serious hack of their IT systems. In the emails that were hacked, who was described as 'quote'?
 
-    A: TBC
-    
+    A: Angelina Jolie.
+
 January
 -------
 * Who or what is Hoegh Osaka?
