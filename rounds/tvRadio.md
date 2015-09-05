@@ -1,6 +1,30 @@
 TV & Radio
 ==========
 
+Debbie and Paul
+---------------
+1. What was the first programme to be aired on Channel 4 in 1982.
+
+    * A: Countdown
+
+2. Doctor Who was first aired in 1962 with the The Doctor played by William Hartnell. The current doctor is Peter Capaldi but which number doctor is he?
+
+    * A: 12th
+
+3. Downton Abbey is the most successful British period drama since Brideshead Revisited. Who is its creator?
+
+    * A: Julian Fellowes
+
+4. What has been broadcast 4 times a day on BBC Radio 4 since the 1920s?
+
+    * A: The shipping forecast
+
+5. Which DJ started presenting on Radio 1 in 1970 and has been ever since?
+
+    * A: Annie Nightingale
+
+Fiona and Neil
+--------------
 1. Put these doctors in order:
 
     A: TODO: (Doctor Who actors)

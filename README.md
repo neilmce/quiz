@@ -8,7 +8,7 @@ Who's working on what?
   * [TV & Radio](./rounds/tvRadio.md) - provide 5 questions per family.
 * Debbie & Paul
   * [Sport](./rounds/sports.md)
-  * Popular/trash culture
+  * [Popular/trash culture](./rounds/popCulture.md)
   * Awards
   * [Village/local interest](./rounds/theVillage.md)
 * Fiona & Neil
