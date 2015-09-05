@@ -74,11 +74,7 @@ Fiona and Neil
 
     A: (TODO names)
 
-12. In 1960 which future president did JFK defeat?
-
-    A: Richard Nixon.
-
-13. OR: Which US President's middle name is a well-known character from The Simpsons?
+13. Which post-war US President's middle name is a well-known character from The Simpsons?
 
     A: Richard Milhouse Nixon.
 
@@ -86,7 +82,7 @@ Fiona and Neil
 
     A: Edward Jenner.
 
-15. Who was the arhitect of the NHS?
+15. Who was the architect of the NHS?
 
-    A:Aneurin Bevan.
+    A: Aneurin Bevan.
     
