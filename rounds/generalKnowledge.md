@@ -1,11 +1,11 @@
-Miscellaneous questions
-=======================
+General Knowledge
+=================
 
 1. What letter of the alphabet is *not* in any U.S. state?
 
     A: 'Q'.
 
-2. What word can you add 's' to and make it singular?
+2. What plural word can you add 's' to and make it singular?
 
     A: Princes.
 
