@@ -12,7 +12,10 @@ November
 
 December
 --------
+* What was the panto at the Theatre Royal in Winchester?
 
+    A: TBC
+    
 January
 -------
 * Who or what is Hoegh Osaka?
