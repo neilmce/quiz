@@ -10,7 +10,7 @@ Who's working on what?
   * [Sport](./rounds/sports.md)
   * Popular/trash culture
   * Awards
-  * Village/local interest.
+  * [Village/local interest](./rounds/theVillage.md)
 * Fiona & Neil
   * [Science/Nature](./rounds/science.md)
   * [Music](./rounds/music.md)
@@ -23,6 +23,10 @@ Who's working on what?
   * Table Rounds. See [Face Morph](./picturerounds/Face Morph - Table Round.doc) and [Lego Movie & Album](./picturerounds/Lego Movie & Album Covers - Table Round.doc).
   * [The year that was](./rounds/theYearThatWas.md)
   * [First & last](./rounds/firstsAndLasts.md)
+
+Notes
+=====
+If we have a 'double your points' Joker, then every round needs to have the same total score.
 
 Timing/scheduling
 =================
