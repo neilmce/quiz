@@ -20,9 +20,17 @@ Fiona and Neil
    A: The Mary Rose.
 8. How many MPs are there in the House of Commons?
    A: 650.
-9. Why was (can't read) Brown famous in 1978?
+9. Why was Louise Brown famous in 1978?
    A: First test tube baby.
 9. (alt) Christian Barnard. First heart transplant.
 10. The English Pale surrounded which city?
    A: Dublin.
-11. (Others I can't read)
+11. Put these Russian leaders in order. (TODO names)
+12. In 1960 which future president did JFK defeat?
+   A: Richard Nixon.
+13. OR: Which US President's middle name is a well-known character from The Simpsons?
+   A: Richard Milhouse Nixon.
+14. Who pioneered vaccination as a means to fight smallpox.
+   A: Edward Jenner.
+15. Who was the arhitect of the NHS?
+   A:Aneurin Bevan.
