@@ -84,3 +84,8 @@ Adam and Rachel
 
     A: Glee
 
+
+1. Name the team captains from 'Would I lie to you?'
+
+    A: Lee Mack & David Mitchell
+
