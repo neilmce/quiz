@@ -61,7 +61,6 @@ Fiona and Neil
     
 10. (Can't read). Question about Avengers' alter-egos.
 
-
 Adam and Rachel
 ---------------
 
@@ -84,4 +83,5 @@ Adam and Rachel
 5. Which TV series is set in William McKinley High School?
 
     A: Glee
+
 
