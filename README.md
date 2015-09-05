@@ -9,7 +9,7 @@ Who's working on what?
 * Debbie & Paul
   * [Sport](./rounds/sports.md)
   * [Popular/trash culture](./rounds/popCulture.md)
-  * Awards
+  * [Awards](./rounds/awards.md)
   * [Village/local interest](./rounds/theVillage.md)
 * Fiona & Neil
   * [Science/Nature](./rounds/science.md)
