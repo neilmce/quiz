@@ -60,3 +60,15 @@ Fiona and Neil
     A: Only Fools and Horses.
     
 10. (Can't read). Question about Avengers' alter-egos.
+
+11. What cult TV series was canceled after one series, but resurrected for a film after demand from Fans?
+   A: Firefly (Serenity 2005)
+12. Name the Doctors assistant who came between Martha Jones and Amy Pond? 
+   A: Donna Noble = Catherine Tate
+13. Which star of a celebrity TV contest broke their leg competing in a second celebrity TV contest ?
+   A: Strictly's Ola Jordan - Competing in "The Jump" 
+14. Name the character played by Jamie Dornan in the Fall?
+   A: Paul Spector
+15. Which TV series is set in William McKinley High School?
+   A: Glee
+
