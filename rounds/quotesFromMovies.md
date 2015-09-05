@@ -25,7 +25,7 @@ Fiona & Neil
    A: Shaun of the dead
 6. You don't understand, Osgood. I'm a man. Well, nobody's perfect.
    A: Some like it hot
-7. Sure you can't be serious. I am serious and don't call me Shirley.
+7. Surely you can't be serious. I am serious and don't call me Shirley.
    A: Airplane!
 
 Alts:
