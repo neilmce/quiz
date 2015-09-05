@@ -12,7 +12,7 @@ November (To be removed)
 
 December
 --------
-* In December Sony suffered a serious hack of their IT systems. In the emails that were hacked, who was described as 'quote'?
+* In December Sony suffered a serious hack of their IT systems. In the emails that were hacked, who was described as 'minimally talented spoilt brat'?
 
     A: Angelina Jolie.
 
