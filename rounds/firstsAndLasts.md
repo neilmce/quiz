@@ -63,5 +63,24 @@ Firsts & lasts (Geoff Hursts)
 
 16. What was the Beatles first UK number one in May 1963?
 
-    A:From me to you
-    
+    A: From me to you
+
+17. Who was the first British footballer to achieve a one million pound transfer fee?
+
+    A: Trevor Francis
+
+18. Elizabeth Taylor married 8 times, name her first husband.
+
+    A: Conrad Hilton (1950 to 1951)
+
+19. Concorde was the first supersonic passenger jet and it entered into service in what year?
+
+    A: 1976
+
+20. The first UK credit card was launched in 1969 by which company?
+
+    A: Barclaycard
+
+21. In 1958 the first 6.8m section of motorway opened. Where was it?
+
+    A: Preston bypass (now M6)
