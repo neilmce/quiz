@@ -22,7 +22,7 @@ Science
 
     A: In the hand
 
-6. Up, Down, Top, Bottom, Strange and Charmed are all what? (1 point)
+6. Up, Down, Top, Bottom, Strange and Charmed are all types of what? (1 point)
 
     A: Types of quark.
 
