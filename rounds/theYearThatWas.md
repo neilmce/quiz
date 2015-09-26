@@ -18,17 +18,7 @@ December
 
 January
 -------
-* Who or what is Hoegh Osaka?
 
-    A: Cargo ship that ran aground in the Solent
-
-* OR: The cargo ship Hoegh Osaka ran aground in the Solent in this month, what was it carrying?
-
-    A: £30 million of luxury cars
-
-* Who became the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago?
-
-    A: Ireland
 
 * With whom was Sam Smith forced to share the writing credits for his Grammy-nominated single ‘Stay With Me’?
 
@@ -37,9 +27,7 @@ January
 
 February
 --------
-* Name the winners of the Best Actor and Best Actress awards at this year’s Oscars. (And the films for a bonus point each?)
 
-    A: Eddie Redmayne for The Theory of Everything & Julianne Moore for Still Alice
 
 * Name the controversial film, directed by Sam Taylor-Johnson, released in this month.
 
@@ -52,6 +40,10 @@ March
 
     A: Jeremy Clarkson
 
+     Jezza the Orangutan hit the headlines why?
+
+    A: Jeremy Clarkson hit a producer
+
 * OR: Over 1 million people signed a petition calling for what?
 
     A: The reinstatement of Jeremy Clarkson 
@@ -59,21 +51,12 @@ March
 
 April
 -----
-* Entertainer & ventriloquist Keith Harris passed away this month, aside from Orville, can you name his other famous character?
-
-    A: Cuddles the Monkey
-
-* Louis Jordan, a 37 year old American, hit the headlines this month.  Why?
-
-    A: He was rescued after more than 2 months lost at sea having survived by catching fish & drinking rainwater
 
 * Giant pandas Xi Mei and Lu Lu broke the record for what?
 
     A: The longest mating session ever recorded in captivity, lasting 18 minutes and three seconds. (I still can’t believe this made the news!!)
 
-* Can you name the winner of the 168th Grand National Steeplechase?
 
-    A: Many Clouds (ridden by Leighton Aspell)
 
 
 May
@@ -82,13 +65,93 @@ May
 
     A: Amending the country's constitution to allow gay and lesbian couples to marry
 
-* The Duchess of Cambridge gave birth to her second child this month, what is the baby’s full name?
 
-    A: Charlotte Elizabeth Diana
 
 
 June
 ----
+
+
+* Name the author of the so-called ‘Black Spider Memos’.
+
+    A: Prince Charles (Letters from Charles to government ministers issues including health, rural affairs and architecture).
+
+
+July
+-
+
+
+* Why were London commuters asked to get off the tube one stop early and walk the rest of their journey?
+
+    A: To commemorate the 7/7 bombings
+
+
+
+
+August
+------
+* Who shot Cecil?
+
+    A: US dentist Walter Palmer.
+
+
+************** NEEDS REVISION ****************
+
+September
+---------
+* 4 pensioners age 58-76 plead guilty to what?
+
+    A: Hatton Garden heist
+
+* What did Zebu do in Liverpool's Albert Dock?
+
+    A:The historic tall ship sank!
+
+
+.
+
+REJECTED
+
+NOV
+* Who or what is Hoegh Osaka?
+
+    A: Cargo ship that ran aground in the Solent
+
+* OR: The cargo ship Hoegh Osaka ran aground in the Solent in this month, what was it carrying?
+
+    A: £30 million of luxury cars
+JAN
+
+* Who became the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago?
+
+    A: Ireland
+
+FEB
+* Name the winners of the Best Actor and Best Actress awards at this year’s Oscars. (And the films for a bonus point each?)
+
+    A: Eddie Redmayne for The Theory of Everything & Julianne Moore for Still Alice
+
+APRIL
+* Entertainer & ventriloquist Keith Harris passed away this month, aside from Orville, can you name his other famous character?
+
+    A: Cuddles the Monkey
+
+* Louis Jordan, a 37 year old American, hit the headlines this month.  Why?
+
+    A: He was rescued after more than 2 months lost at sea having survived by catching fish & drinking rainwater
+
+* Can you name the winner of the 168th Grand National Steeplechase?
+
+    A: Many Clouds (ridden by Leighton Aspell)
+
+MAY
+
+* The Duchess of Cambridge gave birth to her second child this month, what is the baby’s full name?
+
+    A: Charlotte Elizabeth Diana
+
+JUNE
+
 * What landmark decision did the US Supreme Court make this month?
 
     A: They ruled that same-sex couples can marry nationwide
@@ -97,14 +160,9 @@ June
 
     A: Fagin in Oliver
 
-* Name the author of the so-called ‘Black Spider Memos’.
+JULY
 
-    A: Prince Charles (Letters from Charles to government ministers issues including health, rural affairs and architecture).
-
-
-July
-----
-* A million dollar reward was offered for the return of what item of film memorabilia stolen from a Minnesota Museum?
+* ---A million dollar reward was offered for the return of what item of film memorabilia stolen from a Minnesota Museum?
 
     A: Judy Garland’s ruby slippers from The Wizard of Oz
 
@@ -112,20 +170,11 @@ July
 
     A: Harper Lee
 
-* Why were London commuters asked to get off the tube one stop early and walk the rest of their journey?
-
-    A: To commemorate the 7/7 bombings
-
 * Why was Laura Bassett left red-faced this month?
 
     A: England were knocked out of the Women's Football World Cup, losing a place in the final thanks to her ‘own-goal’
 
-
-August
-------
-* Who shot Cecil?
-
-    A: US dentist Walter Palmer.
+AUGUST
 
 * The International Space Station crew celebrated what?
 
@@ -139,14 +188,10 @@ August
 
     A: One Direction
 
+SEP
 
-September
----------
-* 4 pensioners age 58-76 plead guilty to what?
 
-    A: Hatton Garden heist
 
-* What did Zebu do in Liverpool's Albert Dock?
 
-    A:The historic tall ship sank!
+
 

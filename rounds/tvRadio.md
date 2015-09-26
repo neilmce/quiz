@@ -7,9 +7,6 @@ Debbie and Paul
 
     * A: Countdown
 
-2. Doctor Who was first aired in 1962 with the The Doctor played by William Hartnell. The current doctor is Peter Capaldi but which number doctor is he?
-
-    * A: 12th
 
 3. Downton Abbey is the most successful British period drama since Brideshead Revisited. Who is its creator?
 
@@ -25,6 +22,40 @@ Debbie and Paul
 
 Fiona and Neil
 --------------
+
+
+6. What connects Summer Bay, Ramsey Street, Ambridge, Weatherfield, Walford, Los Barcos.
+
+
+7. Who connects PG Wodehouse, the Prince Regent and the Chief of Diagnostic Medicine at Princeton-Plainsboro Teaching Hospital.
+
+    A: Hugh Laurie
+
+
+8. 'Stick a pony in my pocket' heralded the start of what long running TV show?
+
+    A: Only Fools and Horses.
+    
+
+Adam and Rachel
+---------------
+
+
+9. Name the character played by Jamie Dornan in the Fall?
+
+    A: Paul Spector
+
+10. Which TV series is set in William McKinley High School?
+
+    A: Glee
+
+
+11. Name the team captains from 'Would I lie to you?'
+
+    A: Lee Mack & David Mitchell
+
+
+REJECTED
 1. Put these doctors in order:
 
     A: TODO: (Doctor Who actors)
@@ -33,36 +64,19 @@ Fiona and Neil
 
     A: The Tracy Ulman Show
 
-3. What connects Summer Bay, Ramsey Street, Ambridge, Weatherfield, Walford, Los Barcos.
 
 4. What connects Tony Blackburn, Noel Edmonds, Chris Evans, Nick Grimshaw.
 
     A: Breakfast DJs, Radio 1
 
-5. Who were the original X Factor judges?
-
-    A: Simon Cowell, Louis Walsh, Sharon Osbourne.
-
 6. Who played the Vicar of Dibley?
 
     A: Dawn French.
-
-7. Who connects PG Wodehouse, the Prince Regent and the Chief of Diagnostic Medicine at Princeton-Plainsboro Teaching Hospital.
-
-    A: Hugh Laurie
 
 8. Xander, Willow, Angel, Spike featured in what TV show of late 90s?
 
     A: Buffy the Vampire Slayer.
 
-9. 'Stick a pony in my pocket' heralded the start of what long running TV show?
-
-    A: Only Fools and Horses.
-    
-10. (Can't read). Question about Avengers' alter-egos.
-
-Adam and Rachel
----------------
 
 1. What cult TV series was canceled after one series, but resurrected for a film after demand from Fans?
 
@@ -76,16 +90,6 @@ Adam and Rachel
 
     A: Strictly's Ola Jordan - Competing in "The Jump" 
 
-4. Name the character played by Jamie Dornan in the Fall?
-
-    A: Paul Spector
-
-5. Which TV series is set in William McKinley High School?
-
-    A: Glee
 
 
-1. Name the team captains from 'Would I lie to you?'
-
-    A: Lee Mack & David Mitchell
 

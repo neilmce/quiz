@@ -16,43 +16,35 @@ Science
 
 4. Rock Hopper, Jackass and Emperor are all types of what? (1 point)
 
-5. In what year did Vesuvius erupt, covering Pompeii in ash? Answer in Roman numerals. (1 point)
 
-    A: LXXIX = 79 AD.
 
-6. Where would you find the scaphoid bone? (1 point)
+5. Where would you find the scaphoid bone? (1 point)
 
     A: In the hand
 
-7. Up, Down, Top, Bottom, Strange and Charmed are all what? (1 point)
+6. Up, Down, Top, Bottom, Strange and Charmed are all what? (1 point)
 
     A: Types of quark.
 
-8. The deficiency of what is associated with Rickets? (Vit D) OR Scurvy? (Vit C) (1 point)
+7. The deficiency of what is associated with Rickets? (Vit D) OR Scurvy? (Vit C) (1 point)
 
-9. What are the professions of Drs Sheldon Cooper and Leonard Hofstadter?
+8. What are the professions of Drs Sheldon Cooper and Leonard Hofstadter?
 
     A: Physicists, theoretical & experimental respectively.
 
-10. What does the 'c' in E = mc2 mean? (1 point)
+9. What does the 'c' in E = mc2 mean? (1 point)
 
     A: the speed of light (in a vacuum).
 
-11. What is the fruit of the tropical plant Ananas Cosmosus?
+10. What is the fruit of the tropical plant Ananas Cosmosus?
 
     A: Pineapple.
 
-12. What 2 animals are cetaceans better known as? (1 point for naming two. 0 points for naming only 1.)
+11. What 2 animals are cetaceans better known as? (1 point for naming two. 0 points for naming only 1.)
 
     A: Whales, dolphins, porpoises.
 
-13. What does HTTP stand for? ( 1 point)
 
-    A: Hypertext Transfer Protocol.
-
-14: How many hours are there in a leap year? (1 point)
-
-    A: 8784
     
 Q: Which would be the least safe to drink?
     C2H5OH is ethanol
@@ -67,3 +59,18 @@ Q: Which would be the least safe to drink?
 
 
 TODO: Something on tech, more maths, pure physics/astro, engineering
+
+REJECTED
+
+5. In what year did Vesuvius erupt, covering Pompeii in ash? Answer in Roman numerals. (1 point)
+
+    A: LXXIX = 79 AD.
+
+13. What does HTTP stand for? ( 1 point)
+
+    A: Hypertext Transfer Protocol.
+
+14: How many hours are there in a leap year? (1 point)
+
+    A: 8784
+

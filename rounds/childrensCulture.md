@@ -17,23 +17,18 @@ Children's culture
 
     A: Hedwig
 
-5. What is the name of the lion in the Narnia books?
 
-    A: Aslan
-
-6. Who created Tracey Beaker?
+5. Who created Tracey Beaker?
 
     A: Jacqueline Wilson
 
-7. The Academy Awards included a new award in 2001 for Best Animated Feature? What won?
+6. The Academy Awards included a new award in 2001 for Best Animated Feature? What won?
 
     A: Shrek
 
-8. What 1982 movie was remade recently and features the songs, "Tomorrow", "It's a hard knock life" and "You're never fully dressed without a smile"?
 
-    A: Annie
 
-9. The Gruffalo famously had purple prickles all over his back. But can you list his other physical features? (1 point each, up to some maximum)
+7. The Gruffalo famously had purple prickles all over his back. But can you list his other physical features? (1 point each, up to some maximum)
 
   * He has terrible tusks
   * and terrible claws
@@ -45,8 +40,21 @@ Children's culture
   * His tongue is black
   * (He has purple prickles all over his back)
 
-10. What do you call a man with a seagull on his head?
+8. What do you call a man with a seagull on his head?
 
     A: Cliff.
     
-11-. More 'what do you call a man' questions.
+9-. More 'what do you call a man' questions.
+
+REJECTED
+
+8. What 1982 movie was remade recently and features the songs, "Tomorrow", "It's a hard knock life" and "You're never fully dressed without a smile"?
+
+    A: Annie
+
+
+5. What is the name of the lion in the Narnia books?
+
+    A: Aslan
+
+

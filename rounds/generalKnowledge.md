@@ -21,6 +21,8 @@ General Knowledge
 
     A: 4 (New Hampshire, New Jersey, New Mexico, New York)
 
+ REJECTED
+
 
 Q: Name the 50 states of the U.S.
 
