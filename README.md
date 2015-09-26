@@ -24,6 +24,20 @@ Who's working on what?
   * [The year that was](./rounds/theYearThatWas.md)
   * [First & last](./rounds/firstsAndLasts.md)
 
+* We need a tie-breaker question!
+
+Running Order
+=============
+* 3 Table Rounds. Face morph. Chocolate Heaven (Only 20 answers). Name Frames (Only pictures 1-10).
+** Keep Lego round for next year.
+* The year that was.
+* Sport. ("It's not quite bridge")
+* Music ("Looking out for Number 1")
+* Science and nature ("")
+* Food and drink ("All in the best POSSIBLE taste")
+* Film ("Look who's talking")
+* Popular culture ("") Need to move some questions from kids' culture into pop culture.
+
 Notes
 =====
 If we have a 'double your points' Joker, then every round needs to have the same total score.
